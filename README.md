@@ -23,4 +23,4 @@ This project automates the process of creating YouTube videos using APIs and Pyt
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/YouTube-Video-Automation.git
+   git clone https://github.com/naeembogra/Automatic-YouTube-Video-Creator-.git
